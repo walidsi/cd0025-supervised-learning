@@ -14,7 +14,7 @@ from sklearn.multiclass import OutputCodeClassifier
 from sklearn.multiclass import OneVsOneClassifier
 from sklearn.multiclass import OneVsRestClassifier
 
-from sklearn.linear_model.stochastic_gradient import SGDClassifier
+from sklearn.linear_model import SGDClassifier
 from sklearn.linear_model import RidgeClassifierCV
 from sklearn.linear_model import RidgeClassifier
 from sklearn.linear_model.passive_aggressive import PassiveAggressiveClassifier
@@ -24,7 +24,7 @@ from sklearn.linear_model import Perceptron
 
 from sklearn.gaussian_process.gpc import GaussianProcessClassifier
 
-from sklearn.ensemble.VotingClassifier import VotingClassifier
+from sklearn.ensemble import VotingClassifier
 from sklearn.ensemble.weight_boosting import AdaBoostClassifier
 from sklearn.ensemble.gradient_boosting import GradientBoostingClassifier
 from sklearn.ensemble.bagging import BaggingClassifier
@@ -45,7 +45,7 @@ from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
 
 from sklearn.svm import NuSVC
 from sklearn.svm import SVC
-from sklearn.svm.classes import OneClassSVM
+from sklearn.svm import OneClassSVM
 from sklearn.svm import LinearSVC
 
 from sklearn.mixture import DPGMM
