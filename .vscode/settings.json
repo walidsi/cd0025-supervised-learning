@@ -5,6 +5,7 @@
         "hyperparameters",
         "importances",
         "Multinomial",
+        "Nanodegree",
         "overfit",
         "sklearn",
         "Unoptimized"
