@@ -1,13 +1,17 @@
 {
     "python.formatting.provider": "yapf",
     "cSpell.words": [
+        "distibutions",
         "fbeta",
+        "hspace",
         "hyperparameters",
         "importances",
         "Multinomial",
         "Nanodegree",
         "overfit",
+        "setp",
         "sklearn",
-        "Unoptimized"
+        "Unoptimized",
+        "xlabel"
     ]
 }
