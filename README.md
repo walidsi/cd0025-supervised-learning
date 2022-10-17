@@ -1,4 +1,4 @@
-# cd0025-supervised-learning
+# finding-donors
 ![Contributors](https://img.shields.io/github/contributors/walidsi/cd0025-supervised-learning?style=plastic)
 ![Forks](https://img.shields.io/github/forks/walidsi/cd0025-supervised-learning)
 ![Downloads](https://img.shields.io/github/downloads/walidsi/cd0025-supervised-learning/total)
