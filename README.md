@@ -1,5 +1,13 @@
-# Supervised Learning
-## Project: Finding Donors for CharityML
+# cd0025-supervised-learning
+![Contributors](https://img.shields.io/github/contributors/walidsi/cd0025-supervised-learning?style=plastic)
+![Forks](https://img.shields.io/github/forks/walidsi/cd0025-supervised-learning)
+![Downloads](https://img.shields.io/github/downloads/walidsi/cd0025-supervised-learning/total)
+![Stars](https://img.shields.io/github/stars/walidsi/cd0025-supervised-learning)
+![Licence](https://img.shields.io/github/license/walidsi/cd0025-supervised-learning)
+![Issues](https://img.shields.io/github/issues/walidsi/cd0025-supervised-learning)
+
+### Goal
+The goal of the project is to construct a model that accurately predicts whether an individual makes more than $50,000 or not. This is a supervised machine learning project. This should help CharityML create targeted marketing campaigns with the highest donations.
 
 ### Install
 
