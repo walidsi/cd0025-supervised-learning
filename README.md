@@ -7,7 +7,7 @@
 ![Issues](https://img.shields.io/github/issues/walidsi/cd0025-supervised-learning)
 
 ### Goal
-The goal of the project is to construct a model that accurately predicts whether an individual makes more than $50,000 or not. This is a supervised machine learning project. This should help CharityML create targeted marketing campaigns with the highest donations.
+The goal of the project is to construct a model that accurately predicts whether an individual makes more than $50,000 a year or not. This is a supervised machine learning project. This should help CharityML create targeted marketing campaigns with the highest donations.
 
 ### Install
 
