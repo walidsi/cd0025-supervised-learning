@@ -6,8 +6,31 @@
 ![Licence](https://img.shields.io/github/license/walidsi/cd0025-supervised-learning)
 ![Issues](https://img.shields.io/github/issues/walidsi/cd0025-supervised-learning)
 
+
 ### Goal
-The goal of the project is to construct a model that accurately predicts whether an individual makes more than $50,000 a year or not. This is a supervised machine learning project. This should help CharityML create targeted marketing campaigns with the highest donations.
+The goal of the project is to use the census data to identify people that are most likely to donate to CharityML cause. This is done by constructing a model that accurately predicts whether an individual makes more than $50,000 a year or not. This is a supervised machine learning project. This should help CharityML create targeted marketing campaigns with the highest donations.
+
+### Introduction
+CharityML is a fictitious charity organization located in the heart of Silicon Valley that was established to provide financial support for people eager to learn machine learning. After nearly 32,000 letters were sent to people in the community, CharityML determined that every donation they received came from someone that was making more than $50,000 annually. To expand their potential donor base, CharityML has decided to send letters to residents of California, but to only those most likely to donate to the charity. With nearly 15 million working Californians, CharityML has brought you on board to help build an algorithm to best identify potential donors and reduce overhead cost of sending mail. Your goal will be evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.
+
+### Process
+- Explore the census data and learn how it is organized and recorded
+- Apply a series of transformations and pre-processing techniques to manipulate the data into a workable format
+- Establish a benchmark for a solution to the problem
+- Evaluate several supervised learners and consider which is best suited for project goal
+- Optimize the selected model and present the solution to CharityML
+- Finally, explore the chosen model and its predictions under the hood to see how well it is performing considering the data its been given
+
+### Results
+
+|     Metric     | Naive Predictor   | Unoptimized Model | Optimized Model |
+| :------------: | :---------------: | :---------------: | :-------------: |
+| Accuracy Score | 0.2478            | 0.8639            | 0.8737          |
+| F-score        | 0.2917            | 0.7461            | 0.7626          |
+
+The optimized model achieved a little improvement in both accuracy and f-score as seen from the table above.
+- We see more than three times improvement in accuracy score for the optimized model compared to the Naive Predictor.
+- The optimized model also achieved more than twice the f-score compared to the Naive Predictor. These are really valuable gains!
 
 ### Install
 
