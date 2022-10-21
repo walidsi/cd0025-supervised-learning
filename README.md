@@ -31,6 +31,12 @@ CharityML is a fictitious charity organization located in the heart of Silicon V
 The optimized model achieved a little improvement in both accuracy and f-score as seen from the table above.
 - We see more than three times improvement in accuracy score for the optimized model compared to the Naive Predictor.
 - The optimized model also achieved more than twice the f-score compared to the Naive Predictor. These are really valuable gains!
+- The following features are the most important for prediction:
+  1. marital status
+  2. education level
+  3. relationship
+  4. capital-gain
+  5. capital-loss
 
 ### Install
 
